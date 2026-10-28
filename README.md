@@ -28,6 +28,6 @@
 
 *Curious by default. Making progress one commit at a time.*
 
-[![GitHub](https://img.shields.io/badge/Explore_my_work- saranse-181717?style=flat-square&logo=github)](https://github.com/saranse)
+[![Explore my work](https://img.shields.io/badge/Explore_my_work-saranse-181717?style=flat-square&logo=github)](https://github.com/saranse)
 
 </div>
