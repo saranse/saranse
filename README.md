@@ -5,7 +5,7 @@
 
 **Turning security telemetry into clearer signals, faster investigations, and more resilient systems.**
 
-[![Security Engineer](https://img.shields.io/badge/ROLE-Security%20Engineer-0f172a?style=for-the-badge&logo= shield&logoColor=white)](https://github.com/saranse)
+[![Security Engineer](https://img.shields.io/badge/ROLE-Security%20Engineer-0f172a?style=for-the-badge)](https://github.com/saranse)
 [![GitHub followers](https://img.shields.io/github/followers/saranse?label=Followers&style=for-the-badge&logo=github&color=7c3aed)](https://github.com/saranse?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=saranse&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS)](https://github.com/saranse)
 
